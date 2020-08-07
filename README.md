@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://arunvelsriram.dev/posts/](https://arunvelsriram.dev/posts/)
 
-- 💬 Ask me about **DevOps, Infrastructure, GoLang, Python**
+- 💬 Ask me about **DevOps, Infrastructure, GoLang, Python, [ThoughtWorks](https://www.thoughtworks.com/)**
 
 - 📫 How to reach me **arunvelsriram@gmail.com**
 
