@@ -2,13 +2,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunvelsriram/](https://github.com/arunvelsriram/)
 
-- 📝 I regulary write articles on [https://arunvelsriram.dev/posts/](https://arunvelsriram.dev/posts/)
+- 📝 I regularly write articles on [https://arunvelsriram.dev/](https://arunvelsriram.dev/)
 
 - 💬 Ask me about **DevOps, Infrastructure, GoLang, Python, [ThoughtWorks](https://www.thoughtworks.com/)**
 
 - 📫 How to reach me **arunvelsriram@gmail.com**
 
-- ⚡ Fun fact **Likes ginger tea, Cycling**
+- ⚡ Fun fact **Likes Ginger Tea, Cycling, Walking**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunvelsriram" alt="arunvelsriram" /> </p>
 
