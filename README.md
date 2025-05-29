@@ -4,11 +4,11 @@
 
 - 📝 I regularly write articles on [https://arunvelsriram.dev/](https://arunvelsriram.dev/)
 
-- 💬 Ask me about **DevOps, Infrastructure, GoLang, Python, [Thoughtworks](https://www.thoughtworks.com/), [Equal Experts](https://www.equalexperts.com/)**
+- 💬 Ask me about DevOps, Infrastructure, GoLang, Python, [Thoughtworks](https://www.thoughtworks.com/), [Equal Experts](https://www.equalexperts.com/)
 
 - 📫 How to reach me **arunvelsriram@gmail.com**
 
-- ⚡ Fun fact **Likes Ginger Tea, Cycling, Walking**
+- ⚡ Fun fact: likes ginger tea, cycling, walking
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunvelsriram" alt="arunvelsriram" /> </p>
 
