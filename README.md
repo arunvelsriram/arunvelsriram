@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://arunvelsriram.dev/](https://arunvelsriram.dev/)
 
-- 💬 Ask me about DevOps, Infrastructure, GoLang, Python, [Thoughtworks](https://www.thoughtworks.com/), [Equal Experts](https://www.equalexperts.com/)
+- 💬 Ask me about DevOps, Infrastructure, Backend Development, GoLang, Python, Open Source, [Thoughtworks](https://www.thoughtworks.com/), [Equal Experts](https://www.equalexperts.com/)
 
 - 📫 How to reach me **arunvelsriram@gmail.com**
 
